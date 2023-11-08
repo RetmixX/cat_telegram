@@ -1,1 +1,5 @@
 /target
+.gitignore
+.idea
+.env
+Cargo.lock
